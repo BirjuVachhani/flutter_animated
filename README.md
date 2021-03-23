@@ -13,7 +13,7 @@ Flutter sliding animation button design inspired by [Kate Laguta](https://dribbb
 
 Live: https://codepen.io/birjuvachhani/pen/zYNxxZj
 
-![original](https://cdn.dribbble.com/users/1481172/screenshots/4858673/fuge_button_01.gif 20h)
+<img src="https://cdn.dribbble.com/users/1481172/screenshots/4858673/fuge_button_01.gif" height=300px />
 
 Checkout [sliding_animation_button.dart](lib/sliding_animation_button.dart) for source code.
 
@@ -37,6 +37,8 @@ Checkout [sliding_animation_button.dart](lib/sliding_animation_button.dart) for 
     },
   );
 ```
+
+<br/>
 
 ## Starware
 
